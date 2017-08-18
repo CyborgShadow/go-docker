@@ -7,6 +7,7 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'fatih/vim-go'
 Plugin 'majutsushi/tagbar'
 Plugin 'fatih/molokai'
+Plugin 'cespare/vim-toml'
 Plugin 'Valloric/YouCompleteMe'
 " IMPORTANT NOTE: nsf/gocode is what does the autocompletion.
 Plugin 'nsf/gocode', {'rtp': 'vim/'}
